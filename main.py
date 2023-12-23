@@ -37,7 +37,7 @@ class MyClient(discord.Client):
             model="gpt-3.5-turbo",
             messages=[{
                 "role": "system",
-                "content": f"{chat}\nHarryGPT:"
+                "content": f"{chat}\nRanitGPT:"
             }, {
                 "role": "user",
                 "content": message.content
