@@ -53,4 +53,4 @@ Connect with me through various portals:
 ## Future Endeavors
 RanitGPT is an ongoing Replit project, with plans for future updates and improvements. Ranit Manik looks forward to expanding the capabilities of this Discord chatbot through continued development.
 
-**Enjoy chatting with RanitGPT on Replit!**
+**Enjoy chatting with RanitGPT on Discord!**
