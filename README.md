@@ -39,9 +39,16 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- **Ranit Manik**
-  - Email: ranitmanikofficial@outlook.com
-  - Website: [www.ranitmanik.online](www.ranitmanik.online)
+Connect with me through various portals:
+
+- [Email](mailto:ranitmanik.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ranit-manik/)
+- [GitHub](https://github.com/RanitManik)
+- [Instagram](https://www.instagram.com/ranit_manik_/)
+- [Facebook](https://www.facebook.com/RanitKumarManik/)
+- [Twitter](https://twitter.com/RANIT_MANIK)
+- [Codepen](https://codepen.io/RANIT-MANIK)
+- [Replit](https://replit.com/@ranit-manik)
 
 ## Future Endeavors
 RanitGPT is an ongoing Replit project, with plans for future updates and improvements. Ranit Manik looks forward to expanding the capabilities of this Discord chatbot through continued development.
