@@ -1,4 +1,16 @@
-# RanitGPT - Discord Chatbot with OpenAI Integration
+<h1 align="center">RanitGPT - Discord Chatbot with OpenAI Integration</h1>
+
+## Table of Contents
+-  [Overview](#overview)
+-  [Features](#features)
+-  [Usage](#usage)
+-  [How to Run on Replit](#how-to-run-on-replit)
+-  [Configuration](#configuration)
+-  [Example](#example)
+-  [Contributing](#contributing)
+-  [License](#license)
+-  [Contact](#contact)
+-  [Future Endeavors](#future-endeavors)
 
 ## Overview
 RanitGPT is a Discord chatbot project developed on Replit, integrating OpenAI's powerful GPT-3.5-turbo model. This chatbot provides an interactive and dynamic conversation experience within Discord servers.
